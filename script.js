@@ -92,7 +92,7 @@ function renderToDoList() {
         // Append title, description, and remove button to the item container
         toDoItem.appendChild(title);
         toDoItem.appendChild(description);
-        toDoItem.appendChild(removeButton);
+        description.appendChild(removeButton);
 
         // Append the item container to the main container
         toDoContainer.appendChild(toDoItem);
