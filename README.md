@@ -118,6 +118,8 @@ This is a simple yet dynamic **Todo List Application** built with HTML, CSS, and
 ---
 
 ### Screenshots
+![Screenshot (304)](h![Screenshot (305)](https://github.com/user-attachments/assets/95ff2f9f-2e01-4c0b-9334-98fb00f5dd2d)
+ttps://github.com/user-attachments/assets/f307101c-65d9-494d-b773-c34a0b32e06a)
 
 
 ---
