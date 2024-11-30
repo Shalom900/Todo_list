@@ -88,7 +88,7 @@ This is a simple yet dynamic **Todo List Application** built with HTML, CSS, and
            });
            toDoItem.appendChild(title);
            toDoItem.appendChild(description);
-           toDoItem.appendChild(removeButton);
+           description.appendChild(removeButton);
            toDoContainer.appendChild(toDoItem);
        });
    };
